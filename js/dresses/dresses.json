@@ -1,0 +1,66 @@
+[
+{
+    "img": "/img/dresses/001.jpg",
+    "url": "https://www.instagram.com/p/CWcisG5MNSt/",
+    "name": "Swan",
+    "figureType": "Треугольник",
+    "contrast": "Высокий",
+    "color": "Холодный"
+},
+{
+    "img": "/img/dresses/002.jpg",
+    "url": "https://www.instagram.com/p/CWddlQPsrgS/",
+    "name": "Sakura",
+    "figureType": ["Часы", "Прямоугольник", "Перевернутый треугольник"],
+    "contrast": "Высокий",
+    "color": "Холодный"
+},
+{
+    "img": "/img/dresses/003.jpg",
+    "url": "https://www.instagram.com/p/CWdejZbsvny/",
+    "name": "Rose",
+    "figureType": ["Часы", "Треугольник"],
+    "contrast": "Низкий",
+    "color": "Теплый"
+},
+{
+    "img": "/img/dresses/004.jpg",
+    "url": "https://www.instagram.com/p/CWdeorPM_nP/",
+    "name": "Queen",
+    "figureType": ["Часы", "Прямоугольник", "Перевернутый треугольник"],
+    "contrast": "Высокий",
+    "color": "Холодный"
+},
+{
+    "img": "/img/dresses/005.jpg",
+    "url": "https://www.instagram.com/p/CWdeFQmszxd/",
+    "name": "Venus",
+    "figureType": ["Часы", "Треугольник"],
+    "contrast": "Средний",
+    "color": "Теплый"
+},
+{
+    "img": "/img/dresses/006.jpg",
+    "url": "https://www.instagram.com/p/CWdeQPKs1aj/",
+    "name": "Twilight",
+    "figureType": ["Часы", "Прямоугольник", "Треугольник"],
+    "contrast": "Средний",
+    "color": "Холодный"
+},
+{
+    "img": "/img/dresses/007.jpg",
+    "url": "https://www.instagram.com/p/CWc5gPzMI9H/",
+    "name": "Romantic",
+    "figureType": "Перевернутый треугольник",
+    "contrast": "Низкий",
+    "color": "Теплый"
+},
+{
+    "img": "/img/dresses/008.jpg",
+    "url": "https://www.instagram.com/p/CWdeYjsMHZE/",
+    "name": "Aurora",
+    "figureType": ["Часы", "Прямоугольник", "Треугольник"],
+    "contrast": "Средний",
+    "color": "Теплый"
+}
+]
